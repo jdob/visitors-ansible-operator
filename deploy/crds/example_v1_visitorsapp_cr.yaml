@@ -3,5 +3,5 @@ kind: VisitorsApp
 metadata:
   name: example-visitorsapp
 spec:
-  # Add fields here
-  size: 3
+  size: 1
+  title: Ansible Operator Deployed Visitors Site

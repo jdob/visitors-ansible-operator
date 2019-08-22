@@ -1,2 +1,4 @@
 ---
-# tasks file for visitorsapp
+- include: database.yml
+- include: backend.yml
+- include: frontend.yml
